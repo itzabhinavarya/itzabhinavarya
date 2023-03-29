@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Arya👨‍💻</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, My name is Abhinav Arya👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="itzabhinavarya" /> </p>
