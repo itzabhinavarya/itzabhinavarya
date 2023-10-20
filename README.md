@@ -51,6 +51,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzabhinavarya&" alt="itzabhinavarya" /></p>
 
-<h2>All About <span style="color:yellow">Hacktoberfest'23</span></h2>
+<h2>All About Hacktoberfest'23 🎯</h2>
 
 [![An image of @itzabhinavarya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzabhinavarya)](https://holopin.io/@itzabhinavarya)
