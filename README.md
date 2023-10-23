@@ -1,3 +1,6 @@
+<h2>All About Hacktoberfest'23 🎯</h2>
+[![An image of @itzabhinavarya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzabhinavarya)](https://holopin.io/@itzabhinavarya)
+
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, My name is Abhinav Arya👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
@@ -50,7 +53,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzabhinavarya&" alt="itzabhinavarya" /></p>
-
-<h2>All About Hacktoberfest'23 🎯</h2>
-
-[![An image of @itzabhinavarya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzabhinavarya)](https://holopin.io/@itzabhinavarya)
