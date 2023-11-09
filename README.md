@@ -3,7 +3,7 @@
 [![An image of @itzabhinavarya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzabhinavarya)](https://holopin.io/@itzabhinavarya)
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, My name is Abhinav Arya👨‍💻</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">Frontend Developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="itzabhinavarya" /> </p>
 
@@ -11,11 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/itzabhinavarya" target="blank"><img src="https://img.shields.io/twitter/follow/itzabhinavarya?logo=twitter&style=for-the-badge" alt="itzabhinavarya" /></a> </p>
 
-- 🔭 I’m currently working on [Web Project](Will Upload 🔜)
+- 🌱 Know more about me on my portfolio : https://itzabhinavarya.netlify.app
 
-- 🌱 I’m currently learning **React.js , .NET Core web API**
-
-- 👯 I’m looking to collaborate on **Web Applications**
+- 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
 - 🤝 Let's work together [@itzabhinavarya](https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba/)
 
@@ -23,13 +21,7 @@
 
 - 👨‍💻 Subscribe me on youtube for tech content and vlog [codevlogging](codevlogging)
 
-- 💬 I want to learn advance UI/UX. **Connect me on Github or Social Media**
-
 - 📫 How to reach me **itzabhinavarya@gmail.com**
-
-- 📄 Know about my experiences [https://itzabhinavarya.github.io/Portfolio/Abhinav%20Arya(Resume).pdf](<https://itzabhinavarya.github.io/Portfolio/Abhinav%20Arya(Resume).pdf>)
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
