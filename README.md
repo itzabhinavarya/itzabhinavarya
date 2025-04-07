@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently working on **MERN + Next.js stack**
+- 🔭 **Full Stack Dev (MERN + NextJs)**
 - 🌱 Learning **DevOps & App Development**
 - 👯 Looking to collaborate on **open-source MERN/Next.js projects**
 - 💬 Ask me about **TypeScript, JavaScript, or web development**
