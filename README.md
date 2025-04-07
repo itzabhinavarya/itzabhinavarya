@@ -2,8 +2,9 @@
 
 [![An image of @itzabhinavarya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzabhinavarya)](https://holopin.io/@itzabhinavarya)
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, My name is Abhinav Arya👨‍💻</h1>
-<h3 align="center">Frontend Developer from India 🇮🇳</h3>
+## Github Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=itzabhinavarya&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="itzabhinavarya" /> </p>
 
@@ -35,7 +36,7 @@ I love coding.
 </tr>
 <tr>
     <td style="display: flex; "><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light">
-    <img style="border-radius: 8px; width: 23%; height: 100%; margin-left: 10px;" src="https://img.shields.io/badge/-95bf47?style=for-the-badge&logo=shopify&logoColor=white"></td>
+<!--     <img style="border-radius: 8px; width: 23%; height: 100%; margin-left: 10px;" src="https://img.shields.io/badge/-95bf47?style=for-the-badge&logo=shopify&logoColor=white"></td> -->
     <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
 </tr>
 <tr>
@@ -105,13 +106,3 @@ I love coding.
 <div style="margin-top: 10px; display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzabhinavarya&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="itzabhinavarya" width="49%" />
 </div>
-
-## Github Activity
-
-<p align="center">
-  <img src="https://github.com/itzabhinavarya/itzabhinavarya/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
-## Github Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=itzabhinavarya&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
