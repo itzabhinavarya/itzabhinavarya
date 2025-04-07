@@ -28,6 +28,11 @@
 <tr>
     <td style="display: flex; "><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light">
     <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
+     <span style="background-color: #f8f8f8; display: inline-flex; padding: 4px; border-radius: 6px; align-items: center;">
+      <img src="https://img.icons8.com/color/200/chakra-ui.png" 
+           alt="Chakra UI Icon"
+           style="width: 48px; height: 48px; border-radius: 4px;" />
+    </span>
 </tr>
 <tr>
     <td><strong>Backend & Databases</strong></td>
