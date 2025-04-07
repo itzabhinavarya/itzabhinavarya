@@ -1,4 +1,4 @@
-<h2>All About Hacktoberfest'23 Hackathon🎯</h2>
+<h2>Hacktoberfest'23 Hackathon🎯</h2>
 
 [![An image of @itzabhinavarya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzabhinavarya)](https://holopin.io/@itzabhinavarya)
 
