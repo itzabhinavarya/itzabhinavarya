@@ -36,7 +36,7 @@ I love coding.
 </tr>
 <tr>
     <td style="display: flex; "><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light">
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,chakraui&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,chakra&theme=light"></td>
 </tr>
 <tr>
     <td><strong>Backend & Databases</strong></td>
