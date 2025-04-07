@@ -27,7 +27,7 @@
 </tr>
 <tr>
     <td style="display: flex; "><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light">
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,fastapi&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,fastapi,materialui&theme=light"></td>
 </tr>
 <tr>
     <td><strong>Backend & Databases</strong></td>
@@ -35,7 +35,7 @@
 </tr>
 <tr>
     <td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,dotnet&theme=light"></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,linux,nginx,postman&theme=light"></td>
 </tr>
 </table>
 
