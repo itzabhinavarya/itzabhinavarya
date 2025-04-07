@@ -36,8 +36,7 @@ I love coding.
 </tr>
 <tr>
     <td style="display: flex; "><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light">
-<!--     <img style="border-radius: 8px; width: 23%; height: 100%; margin-left: 10px;" src="https://img.shields.io/badge/-95bf47?style=for-the-badge&logo=shopify&logoColor=white"></td> -->
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,chakraui&theme=light"></td>
 </tr>
 <tr>
     <td><strong>Backend & Databases</strong></td>
