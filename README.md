@@ -12,10 +12,9 @@
 
 ## 🌟 About Me
 
-- 🔭 **Full Stack Dev (MERN + NextJs)**
+- 🔭 **Software Development Engineer**
 - 🌱 Learning **DevOps & App Development**
-- 👯 Looking to collaborate on **open-source MERN/Next.js projects**
-- 💬 Ask me about **TypeScript, JavaScript, or web development**
+- 👯 Looking to collaborate on **open-source projects**
 - ⚡ Fun fact: **I automate repetitive tasks for fun**
 
 ## Technologies
