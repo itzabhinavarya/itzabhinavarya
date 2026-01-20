@@ -7,7 +7,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=itzabhinavarya&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itzabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="itzabhinavarya" />
+  <img src="https://komarev.com/ghpvc/?username=itzabhinavarya&label=Profile%20views&color=brightgreen&style=flat" alt="itzabhinavarya" />
   <img src="https://img.shields.io/github/stars/itzabhinavarya?label=Stars" alt="GitHub stars" />
   <img src="https://img.shields.io/github/followers/itzabhinavarya?label=Followers&style=social" alt="GitHub followers" />
 </p>
