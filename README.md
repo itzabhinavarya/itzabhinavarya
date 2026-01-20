@@ -99,3 +99,8 @@ I enjoy owning projects end-to-end — from **system design and development to d
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=itzabhinavarya&theme=radical&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzabhinavarya&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=itzabhinavarya/ShopingKaro,itzabhinavarya/taskopedia&type=Date)](https://www.star-history.com/#itzabhinavarya/ShopingKaro&itzabhinavarya/taskopedia&Date)
+
