@@ -58,10 +58,10 @@ I enjoy owning projects end-to-end — from **system design and development to d
 
 ## 🆓 Free & Open Websites
 
-| Website | Live URL |
-|------|---------|
-| Xiarch | https://xiarch.vercel.app/ |
-| Watch Store | https://web-watch-store.vercel.app/ |
+| Project | Description | Live | Follow |
+|------|------------|------|--------|
+| **Xiarch** | Open-source web template available for public use and customization. | [View](https://xiarch.vercel.app/) | <a href="https://github.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=github&theme=light" width="20"/></a> <a href="https://x.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="20"/></a> <a href="https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="20"/></a> |
+| **Watch Store** | Free e-commerce UI demo showcasing product layout and design. | [View](https://web-watch-store.vercel.app/) | <a href="https://github.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=github&theme=light" width="20"/></a> <a href="https://x.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="20"/></a> <a href="https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="20"/></a> |
 
 ---
 
