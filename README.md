@@ -45,14 +45,14 @@ I enjoy owning projects end-to-end — from **system design and development to d
 
 ## 🌐 Production Websites (Available for Sale)
 
-| Website | Live URL |
-|------|---------|
-| RewardPro | https://rewardpro-web.vercel.app/ |
-| 365 Musket Room | https://365musketroom.vercel.app/ |
-| Alt Pasta Bar | https://altpastabar.vercel.app/ |
-| Hardware Societe | https://hardware-societe.vercel.app/ |
-| Hazel | https://hazel-website.vercel.app/ |
-| Freyja | https://freyja-website.vercel.app/ |
+| Project | Description | Live | Connect |
+|------|------------|------|---------|
+| **RewardPro** | Android app to earn coins by playing games, watching videos, and referrals. Coins can be redeemed and transferred directly to Paytm Wallet. | [View](https://rewardpro-web.vercel.app/) | [Email](mailto:itzabhinavarya@gmail.com) |
+| **365 Musket Room** | Restaurant website with modern UI for brand presence and menu showcase. | [View](https://365musketroom.vercel.app/) | [Email](mailto:itzabhinavarya@gmail.com) |
+| **Alt Pasta Bar** | Restaurant landing website designed for menu display and online presence. | [View](https://altpastabar.vercel.app/) | [Email](mailto:itzabhinavarya@gmail.com) |
+| **Hardware Societe** | Restaurant website focused on clean design and customer engagement. | [View](https://hardware-societe.vercel.app/) | [Email](mailto:itzabhinavarya@gmail.com) |
+| **Hazel** | Restaurant branding website with modern layout and visuals. | [View](https://hazel-website.vercel.app/) | [Email](mailto:itzabhinavarya@gmail.com) |
+| **Freyja** | Restaurant website built for showcasing menu and brand identity. | [View](https://freyja-website.vercel.app/) | [Email](mailto:itzabhinavarya@gmail.com) |
 
 ---
 
