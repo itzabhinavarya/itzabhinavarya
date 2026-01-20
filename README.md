@@ -4,7 +4,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=itzabhinavarya&theme=flat&row=1&column=6" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=itzabhinavarya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itzabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="itzabhinavarya" />
