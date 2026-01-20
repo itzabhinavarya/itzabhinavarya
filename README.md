@@ -59,42 +59,24 @@ I enjoy owning projects end-to-end — from **system design and development to d
 ## 🆓 Free & Open Websites
 
 | Project | Description | Live | Follow |
-|------|------------|------|--------|
-| **Xiarch** | Open-source web template available for public use and customization. | [View](https://xiarch.vercel.app/) | <a href="https://github.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=github&theme=light" width="20"/></a> <a href="https://x.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="20"/></a> <a href="https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="20"/></a> |
-| **Watch Store** | Free e-commerce UI demo showcasing product layout and design. | [View](https://web-watch-store.vercel.app/) | <a href="https://github.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=github&theme=light" width="20"/></a> <a href="https://x.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="20"/></a> <a href="https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="20"/></a> |
+|--------|-------------|------|--------|
+| **Xiarch** | Open-source web template available for public use, customization, and learning purposes. | [View](https://xiarch.vercel.app/) | <a href="https://github.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=github&theme=light" width="22"/></a> <a href="https://x.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="22"/></a> <a href="https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="22"/></a> |
+| **Watch Store** | Free e-commerce UI demo focused on clean product layout, modern design, and responsive structure. | [View](https://web-watch-store.vercel.app/) | <a href="https://github.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=github&theme=light" width="22"/></a> <a href="https://x.com/itzabhinavarya"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="22"/></a> <a href="https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="22"/></a> |
 
 ---
 
 ## 🛠 Technologies & Tools
 
-### Languages
-- JavaScript
-- TypeScript
-- C#
+| Category | Technologies |
+|--------|-------------|
+| **Languages** | JavaScript, TypeScript, C# |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, Material UI |
+| **Backend** | Node.js, Express, ASP.NET Core |
+| **Databases** | MongoDB, PostgreSQL |
+| **Architecture** | Microservices, REST APIs |
+| **DevOps & Tools** | Docker, Docker Compose, Git, GitHub Actions, Jenkins, Linux, NGINX, Postman |
+| **Cloud (Basics)** | AWS |
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- Material UI
-
-### Backend & Databases
-- Node.js
-- Express
-- ASP.NET Core
-- MongoDB
-- PostgreSQL
-
-### DevOps & Tools
-- Docker
-- Docker Compose
-- Git & GitHub
-- Jenkins
-- Linux
-- NGINX
-- Postman
-- AWS (Basics)
 
 ---
 
