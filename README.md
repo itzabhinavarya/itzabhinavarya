@@ -67,16 +67,16 @@ I enjoy owning projects end-to-end — from **system design and development to d
 
 ## 🛠 Technologies & Tools
 
-| Category | Technologies |
-|--------|-------------|
-| **Languages** | JavaScript, TypeScript, C# |
-| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap, Material UI |
-| **Backend** | Node.js, Express, ASP.NET Core |
-| **Databases** | MongoDB, PostgreSQL |
-| **Architecture** | Microservices, REST APIs |
-| **DevOps & Tools** | Docker, Docker Compose, Git, GitHub Actions, Jenkins, Linux, NGINX, Postman |
-| **Cloud (Basics)** | AWS |
-
+| Category | Primary Technologies | Additional / Supporting |
+|--------|----------------------|--------------------------|
+| **Languages** | JavaScript, TypeScript | C# |
+| **Frontend** | React, Next.js | Tailwind CSS, Bootstrap, Material UI |
+| **Backend** | Node.js, Express | ASP.NET Core |
+| **Databases** | MongoDB | PostgreSQL |
+| **Architecture** | Microservices | REST APIs |
+| **DevOps & Tooling** | Docker, Docker Compose | Git, GitHub Actions, Jenkins |
+| **Infrastructure** | Linux, NGINX | Postman |
+| **Cloud (Basics)** | AWS | — |
 
 ---
 
