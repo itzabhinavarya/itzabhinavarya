@@ -22,7 +22,7 @@ I am a **Software Development Engineer** with experience building **full-stack a
 
 I focus on developing **scalable, maintainable, and production-ready software**, with a strong interest in backend architecture, DevOps practices, and distributed systems.
 
-- 💻 Hands-on experience with **JavaScript, TypeScript, Node.js, React, Next.js, ASP.NET Core**
+- 💻 Hands-on experience with **JavaScript, TypeScript, Node.js, React, Next.js, Nest.js, ASP.NET Core**
 - 🧩 Strong understanding of **REST APIs, backend design, and data flow**
 - 🐳 Experience with **Docker, Docker Compose, and microservices architecture**
 - ☁️ Actively learning **DevOps, CI/CD pipelines, and cloud-native deployments**
