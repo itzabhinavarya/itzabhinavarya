@@ -104,3 +104,41 @@ I enjoy owning projects end-to-end — from **system design and development to d
 
 [![Star History Chart](https://api.star-history.com/svg?repos=itzabhinavarya/ShopingKaro,itzabhinavarya/Employee-Managemant-System,itzabhinavarya/ToDo-Application&type=Date)](https://www.star-history.com/#itzabhinavarya/ShopingKaro&itzabhinavarya/Employee-Managemant-System&itzabhinavarya/taskopedia&Date)
 
+## 🔝 Top-5 Projects (by Forks and Stars)
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/itzabhinavarya/ShopingKaro"><b>ShopingKaro</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/itzabhinavarya/ShopingKaro?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/itzabhinavarya/ShopingKaro?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/itzabhinavarya/Employee-Managemant-System"><b>Employee Management System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/itzabhinavarya/Employee-Managemant-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/itzabhinavarya/Employee-Managemant-System?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/itzabhinavarya/ToDo-Application"><b>ToDo Application</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/itzabhinavarya/ToDo-Application?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/itzabhinavarya/ToDo-Application?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/itzabhinavarya/DevTracking"><b>DevTracking</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/itzabhinavarya/DevTracking?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/itzabhinavarya/DevTracking?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/itzabhinavarya/Spot-the-fake-Quiz"><b>Spot the Fake Quiz</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/itzabhinavarya/Spot-the-fake-Quiz?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/itzabhinavarya/Spot-the-fake-Quiz?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
