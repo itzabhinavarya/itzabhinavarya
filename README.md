@@ -10,18 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=itzabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="itzabhinavarya" />
   <img src="https://img.shields.io/github/stars/itzabhinavarya?label=Stars" alt="GitHub stars" />
   <img src="https://img.shields.io/github/followers/itzabhinavarya?label=Followers&style=social" alt="GitHub followers" />
-  <a href="https://www.linkedin.com/in/abhinav-kumar-arya-7790261ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/itzabhinavarya/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/itzabhinavarya" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCuKCJgq0NIUuFbdkLOCBe8A" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
 
 ---
