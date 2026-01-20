@@ -32,67 +32,21 @@ I enjoy owning projects end-to-end — from **system design and development to d
 
 ## 🚀 Core & Featured Projects
 
-### 🧠 Taskopedia (Microservices Architecture)
-**Taskopedia** is a modular, microservices-based task management system designed to demonstrate real-world backend architecture and container orchestration.
-
-**Key highlights:**
-- Microservices architecture with loosely coupled services
-- Fully containerized using **Docker**
-- Service orchestration using **Docker Compose**
-- Independent services with isolated environments
-- Designed for scalability, maintainability, and clean separation of concerns
-
-**Tech Stack:**  
-Docker, Docker Compose, REST APIs, Microservices
-
-🔗 Repository: https://github.com/itzabhinavarya/taskopedia
-
----
-
-### 🛒 ShopingKaro
-A full-stack shopping platform with authentication, product management, and backend APIs. One of my most starred and forked repositories.
-
-**Tech Stack:**  
-Node.js, Express, MongoDB
-
-🔗 Repository: https://github.com/itzabhinavarya/ShopingKaro
-
----
-
-### 🔐 Login with Passkey
-A passwordless authentication demo using modern **passkey / WebAuthn** concepts.  
-Backend is private; frontend showcases authentication flow.
-
-🔗 Live: https://loginusingpasskey.vercel.app/  
-🔗 Frontend Repo: https://github.com/itzabhinavarya/loginwithpasskey
-
----
-
-### 🏏 Cricket Scoring App
-End-to-end cricket scoring application with both frontend and backend in a single repository.
-
-🔗 Repository: https://github.com/itzabhinavarya/Cricket-Scoring-App
-
----
-
-### 🧑‍💼 Employee Management System
-Enterprise-style CRUD application built using **ASP.NET Core**.
-
-🔗 Repository: https://github.com/itzabhinavarya/Employee-Managemant-System
-
----
-
-### 📊 DevTracking
-Developer utility to explore GitHub profiles and statistics.
-
-🔗 Repository: https://github.com/itzabhinavarya/DevTracking
+| Project | Description | Tech Stack / Architecture | Links |
+|------|------------|---------------------------|------|
+| **Taskopedia** | Modular **microservices-based task management platform** designed for scalability and clean service separation. Fully containerized and orchestrated using Docker Compose. | Docker, Docker Compose, Microservices, REST APIs | https://github.com/itzabhinavarya/taskopedia |
+| **ShopingKaro** | Full-stack e-commerce platform with authentication, product management, and backend APIs. One of the most starred and forked repos. | Node.js, Express, MongoDB | https://github.com/itzabhinavarya/ShopingKaro |
+| **Login with Passkey** | Passwordless authentication demo using modern passkey/WebAuthn flows. Backend is private; frontend demonstrates auth flow. | WebAuthn, Frontend Auth | https://loginusingpasskey.vercel.app/ · https://github.com/itzabhinavarya/loginwithpasskey |
+| **Cricket Scoring App** | End-to-end cricket scoring application with both frontend and backend in a single repository. | Full-stack JavaScript | https://github.com/itzabhinavarya/Cricket-Scoring-App |
+| **Employee Management System** | Enterprise-style CRUD application built with ASP.NET Core. | C#, ASP.NET Core | https://github.com/itzabhinavarya/Employee-Managemant-System |
+| **DevTracking** | Developer utility to explore GitHub profiles and public statistics. | React, GitHub API | https://github.com/itzabhinavarya/DevTracking |
 
 ---
 
 ## 🌐 Production Websites (Available for Sale)
 
 | Website | Live URL |
-|-------|---------|
+|------|---------|
 | RewardPro | https://rewardpro-web.vercel.app/ |
 | 365 Musket Room | https://365musketroom.vercel.app/ |
 | Alt Pasta Bar | https://altpastabar.vercel.app/ |
